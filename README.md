@@ -3,10 +3,13 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guh_parra/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-parra-7bba70159/)
+<a href = "mailto:oligustavo56@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ![GuhParra GitHub stats](https://github-readme-stats.vercel.app/api?username=GuhParra&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuhParra)](https://github.com/GuhParra/github-readme-stats)
+
+
 
 ## Tecnologias que eu uso no meu dia
 
