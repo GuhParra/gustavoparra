@@ -6,6 +6,8 @@
 
 ![GuhParra GitHub stats](https://github-readme-stats.vercel.app/api?username=GuhParra&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuhParra)](https://github.com/GuhParra/github-readme-stats)
+
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
